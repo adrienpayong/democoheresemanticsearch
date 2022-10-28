@@ -7,7 +7,7 @@ Cohere can also be used for:
 - [Entity Extraction](https://docs.cohere.ai/entity-extraction)
 - [Text Summarization](https://docs.cohere.ai/text-summarization-example)
 - Language Generation with [Prompt Engineering](https://docs.cohere.ai/prompt-engineering-wiki), [top-k & top-p](https://docs.cohere.ai/token-picking)
-- Text Classification with [Classify](https://docs.cohere.ai/sentiment-analysis-example), [Embed](https://docs.cohere.ai/text-classification-embeddings), 
+- Text Classification with [Classify](https://docs.cohere.ai/sentiment-analysis-example), [Embed](https://docs.cohere.ai/text-classification-embeddings)
 - [Content Moderation with Classify](https://docs.cohere.ai/classify-content-mod)
 - [Intent Recognition](https://docs.cohere.ai/intent-recognition)
 - [Sentiment Analysis](https://docs.cohere.ai/sentiment-analysis-guide)
