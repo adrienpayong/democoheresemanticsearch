@@ -5,4 +5,4 @@ This is a demo of [semantic search with Cohere](https://github.com/adrienpayong/
 Cohere can also be used for:
 - [Entity Extraction](https://docs.cohere.ai/entity-extraction)
 - [Text Summarization](https://docs.cohere.ai/text-summarization-example)
-- Language Generation with [Prompt Engineering(https://docs.cohere.ai/prompt-engineering-wiki), [top-k & top-p](https://docs.cohere.ai/token-picking)
+- Language Generation with [Prompt Engineering](https://docs.cohere.ai/prompt-engineering-wiki), [top-k & top-p](https://docs.cohere.ai/token-picking)
